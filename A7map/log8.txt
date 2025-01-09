@@ -1,0 +1,294 @@
+ID OF PROGRAM: 5
+The stack contains: 
+---
+Ref(int) v;
+new(v, 20);
+print(rH(v));
+wH(v, 30);
+print(rH(v) + 5);
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+new(v, 20);
+print(rH(v));
+wH(v, 30);
+print(rH(v) + 5);
+
+---
+Ref(int) v;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+new(v, 20);
+print(rH(v));
+wH(v, 30);
+print(rH(v) + 5);
+
+---
+Ref(int) v;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+new(v, 20);
+print(rH(v));
+wH(v, 30);
+print(rH(v) + 5);
+
+
+SymTable: v->(0,int) | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+new(v, 20);
+print(rH(v));
+wH(v, 30);
+print(rH(v) + 5);
+
+
+SymTable: v->(0,int) | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+print(rH(v));
+wH(v, 30);
+print(rH(v) + 5);
+
+---
+new(v, 20);
+
+
+SymTable: v->(0,int) | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+print(rH(v));
+wH(v, 30);
+print(rH(v) + 5);
+
+---
+new(v, 20);
+
+
+SymTable: v->(0,int) | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+print(rH(v));
+wH(v, 30);
+print(rH(v) + 5);
+
+
+SymTable: v->(1,int) | 
+Output: 
+File Table: 
+Heap:
+1->20
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+print(rH(v));
+wH(v, 30);
+print(rH(v) + 5);
+
+
+SymTable: v->(1,int) | 
+Output: 
+File Table: 
+Heap:
+1->20
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+wH(v, 30);
+print(rH(v) + 5);
+
+---
+print(rH(v));
+
+
+SymTable: v->(1,int) | 
+Output: 
+File Table: 
+Heap:
+1->20
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+wH(v, 30);
+print(rH(v) + 5);
+
+---
+print(rH(v));
+
+
+SymTable: v->(1,int) | 
+Output: 
+File Table: 
+Heap:
+1->20
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+wH(v, 30);
+print(rH(v) + 5);
+
+
+SymTable: v->(1,int) | 
+Output: 20 | 
+File Table: 
+Heap:
+1->20
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+wH(v, 30);
+print(rH(v) + 5);
+
+
+SymTable: v->(1,int) | 
+Output: 20 | 
+File Table: 
+Heap:
+1->20
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+print(rH(v) + 5);
+
+---
+wH(v, 30);
+
+
+SymTable: v->(1,int) | 
+Output: 20 | 
+File Table: 
+Heap:
+1->20
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+print(rH(v) + 5);
+
+---
+wH(v, 30);
+
+
+SymTable: v->(1,int) | 
+Output: 20 | 
+File Table: 
+Heap:
+1->20
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+print(rH(v) + 5);
+
+
+SymTable: v->(1,int) | 
+Output: 20 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+print(rH(v) + 5);
+
+
+SymTable: v->(1,int) | 
+Output: 20 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+
+SymTable: v->(1,int) | 
+Output: 20 | 35 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+

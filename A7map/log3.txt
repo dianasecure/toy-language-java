@@ -1,0 +1,1125 @@
+ID OF PROGRAM: 2
+The stack contains: 
+---
+bool a;
+int v;
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+int v;
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+---
+bool a;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+int v;
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+---
+bool a;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+int v;
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+
+SymTable: a->false | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+int v;
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+
+SymTable: a->false | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+---
+int v;
+
+
+SymTable: a->false | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+---
+int v;
+
+
+SymTable: a->false | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+
+SymTable: a->false | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+
+SymTable: a->false | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+---
+a = true;
+
+
+SymTable: a->false | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+---
+a = true;
+
+
+SymTable: a->false | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+
+SymTable: a->true | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+
+SymTable: a->true | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+print(v);
+
+---
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+
+
+SymTable: a->true | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+print(v);
+
+---
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+
+
+SymTable: a->true | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+print(v);
+
+---
+v = 2;
+
+
+SymTable: a->true | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+print(v);
+
+---
+v = 2;
+
+
+SymTable: a->true | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+print(v);
+
+
+SymTable: a->true | v->2 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+print(v);
+
+
+SymTable: a->true | v->2 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+
+SymTable: a->true | v->2 | 
+Output: 2 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+bool a;
+int v;
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+int v;
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+---
+bool a;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+int v;
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+---
+bool a;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+int v;
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+
+SymTable: a->false | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+int v;
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+
+SymTable: a->false | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+---
+int v;
+
+
+SymTable: a->false | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+---
+int v;
+
+
+SymTable: a->false | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+
+SymTable: a->false | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+
+SymTable: a->false | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+---
+a = true;
+
+
+SymTable: a->false | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+---
+a = true;
+
+
+SymTable: a->false | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+
+SymTable: a->true | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+
+SymTable: a->true | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+
+---
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+
+
+SymTable: a->true | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+
+---
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+
+
+SymTable: a->true | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+
+---
+v = 2;
+
+
+SymTable: a->true | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+
+---
+v = 2;
+
+
+SymTable: a->true | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+
+
+SymTable: a->true | v->2 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+
+
+SymTable: a->true | v->2 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+
+SymTable: a->true | v->2 | 
+Output: 2 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+bool a;
+int v;
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+int v;
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+---
+bool a;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+int v;
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+---
+bool a;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+int v;
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+
+SymTable: a->false | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+int v;
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+
+SymTable: a->false | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+---
+int v;
+
+
+SymTable: a->false | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+---
+int v;
+
+
+SymTable: a->false | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+
+SymTable: a->false | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+a = true;
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+
+SymTable: a->false | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+---
+a = true;
+
+
+SymTable: a->false | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+---
+a = true;
+
+
+SymTable: a->false | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+
+SymTable: a->true | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+print(v);
+
+
+SymTable: a->true | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+
+---
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+
+
+SymTable: a->true | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+
+---
+if(a){
+    v = 2;
+} else {
+    v = 3;
+}
+
+
+SymTable: a->true | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+
+---
+v = 2;
+
+
+SymTable: a->true | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+
+---
+v = 2;
+
+
+SymTable: a->true | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+
+
+SymTable: a->true | v->2 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+
+
+SymTable: a->true | v->2 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+
+SymTable: a->true | v->2 | 
+Output: 2 | 
+File Table: 
+Heap:
+
+---------------------------------------
+

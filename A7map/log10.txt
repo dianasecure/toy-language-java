@@ -1,0 +1,3068 @@
+ID OF PROGRAM: 7
+The stack contains: 
+---
+int v;
+Ref(int) a;
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+Ref(int) a;
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+int v;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+Ref(int) a;
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+int v;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+Ref(int) a;
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+Ref(int) a;
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+Ref(int) a;
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+Ref(int) a;
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(0,int) | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(0,int) | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+v = 10;
+
+
+SymTable: a->(0,int) | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+v = 10;
+
+
+SymTable: a->(0,int) | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(0,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(0,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+new(a, 22);
+
+
+SymTable: a->(0,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+new(a, 22);
+
+
+SymTable: a->(0,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 8
+The stack contains: 
+---
+wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 8
+The stack contains: 
+---
+wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+print(rH(a));
+
+---
+print(v);
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 8
+The stack contains: 
+---
+v = 32;
+print(v);
+print(rH(a));
+
+---
+wH(a, 30);
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+print(rH(a));
+
+---
+print(v);
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 8
+The stack contains: 
+---
+v = 32;
+print(v);
+print(rH(a));
+
+---
+wH(a, 30);
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 8
+The stack contains: 
+---
+v = 32;
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+---
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 8
+The stack contains: 
+---
+v = 32;
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 7
+The stack contains: 
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 8
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+---
+v = 32;
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 8
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+---
+v = 32;
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 8
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 8
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 8
+The stack contains: 
+---
+print(rH(a));
+
+---
+print(v);
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 8
+The stack contains: 
+---
+print(rH(a));
+
+---
+print(v);
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 8
+The stack contains: 
+---
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 32 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 8
+The stack contains: 
+---
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 32 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 8
+The stack contains: 
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 32 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+int v;
+Ref(int) a;
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+Ref(int) a;
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+int v;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+Ref(int) a;
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+int v;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+Ref(int) a;
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+Ref(int) a;
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+Ref(int) a;
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+Ref(int) a;
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(0,int) | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(0,int) | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+v = 10;
+
+
+SymTable: a->(0,int) | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+v = 10;
+
+
+SymTable: a->(0,int) | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(0,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(0,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+new(a, 22);
+
+
+SymTable: a->(0,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+new(a, 22);
+
+
+SymTable: a->(0,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(rH(a));
+
+---
+print(v);
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+v = 32;
+print(v);
+print(rH(a));
+
+---
+wH(a, 30);
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(rH(a));
+
+---
+print(v);
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+v = 32;
+print(v);
+print(rH(a));
+
+---
+wH(a, 30);
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+v = 32;
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+v = 32;
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+---
+v = 32;
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+---
+v = 32;
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+print(rH(a));
+
+---
+print(v);
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+print(rH(a));
+
+---
+print(v);
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 32 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 32 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 32 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+int v;
+Ref(int) a;
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+Ref(int) a;
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+int v;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+Ref(int) a;
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+int v;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+Ref(int) a;
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+Ref(int) a;
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+Ref(int) a;
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+Ref(int) a;
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(0,int) | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(0,int) | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+v = 10;
+
+
+SymTable: a->(0,int) | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+v = 10;
+
+
+SymTable: a->(0,int) | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(0,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(0,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+new(a, 22);
+
+
+SymTable: a->(0,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+new(a, 22);
+
+
+SymTable: a->(0,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(rH(a));
+
+---
+print(v);
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+v = 32;
+print(v);
+print(rH(a));
+
+---
+wH(a, 30);
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(rH(a));
+
+---
+print(v);
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+v = 32;
+print(v);
+print(rH(a));
+
+---
+wH(a, 30);
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+v = 32;
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+v = 32;
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+---
+v = 32;
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+---
+v = 32;
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+print(rH(a));
+
+---
+print(v);
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+print(rH(a));
+
+---
+print(v);
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 32 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 32 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 32 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+int v;
+Ref(int) a;
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+Ref(int) a;
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+int v;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+Ref(int) a;
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+int v;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+Ref(int) a;
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+Ref(int) a;
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+Ref(int) a;
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+Ref(int) a;
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(0,int) | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+v = 10;
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(0,int) | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+v = 10;
+
+
+SymTable: a->(0,int) | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+v = 10;
+
+
+SymTable: a->(0,int) | v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(0,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+new(a, 22);
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(0,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+new(a, 22);
+
+
+SymTable: a->(0,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+---
+new(a, 22);
+
+
+SymTable: a->(0,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+---
+fork(wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+    );
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+wH(a, 30);
+v = 32;
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+print(rH(a));
+
+---
+print(v);
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+v = 32;
+print(v);
+print(rH(a));
+
+---
+wH(a, 30);
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+print(rH(a));
+
+---
+print(v);
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+v = 32;
+print(v);
+print(rH(a));
+
+---
+wH(a, 30);
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 
+File Table: 
+Heap:
+1->22
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+v = 32;
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+---
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+v = 32;
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 5
+The stack contains: 
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+---
+v = 32;
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+---
+v = 32;
+
+
+SymTable: a->(1,int) | v->10 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+print(v);
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+print(rH(a));
+
+---
+print(v);
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+print(rH(a));
+
+---
+print(v);
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 32 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+print(rH(a));
+
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 32 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+
+SymTable: a->(1,int) | v->32 | 
+Output: 10 | 30 | 32 | 30 | 
+File Table: 
+Heap:
+1->30
+
+---------------------------------------
+

@@ -1,0 +1,1821 @@
+ID OF PROGRAM: 3
+The stack contains: 
+---
+string varf;
+varf = test.in;
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+varf = test.in;
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+string varf;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+varf = test.in;
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+string varf;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+varf = test.in;
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf-> | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+varf = test.in;
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf-> | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+varf = test.in;
+
+
+SymTable: varf-> | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+varf = test.in;
+
+
+SymTable: varf-> | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+openRFile(varf);
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+openRFile(varf);
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+int varc;
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+int varc;
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+readFile(varf, varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+readFile(varf, varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+print(varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+print(varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(varc);
+closeRFile(varf);
+
+---
+readFile(varf, varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(varc);
+closeRFile(varf);
+
+---
+readFile(varf, varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+closeRFile(varf);
+
+---
+print(varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+closeRFile(varf);
+
+---
+print(varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+string varf;
+varf = test.in;
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+varf = test.in;
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+string varf;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+varf = test.in;
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+string varf;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+varf = test.in;
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf-> | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+varf = test.in;
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf-> | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+varf = test.in;
+
+
+SymTable: varf-> | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+varf = test.in;
+
+
+SymTable: varf-> | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+openRFile(varf);
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+openRFile(varf);
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+int varc;
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+int varc;
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+readFile(varf, varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+readFile(varf, varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+print(varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+print(varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(varc);
+closeRFile(varf);
+
+---
+readFile(varf, varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(varc);
+closeRFile(varf);
+
+---
+readFile(varf, varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+closeRFile(varf);
+
+---
+print(varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+closeRFile(varf);
+
+---
+print(varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+---
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 3
+The stack contains: 
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+string varf;
+varf = test.in;
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+varf = test.in;
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+string varf;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+varf = test.in;
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+string varf;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+varf = test.in;
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf-> | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+varf = test.in;
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf-> | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+varf = test.in;
+
+
+SymTable: varf-> | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+varf = test.in;
+
+
+SymTable: varf-> | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+openRFile(varf);
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+openRFile(varf);
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+openRFile(varf);
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+int varc;
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+int varc;
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+int varc;
+
+
+SymTable: varf->test.in | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+readFile(varf, varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+readFile(varf, varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+print(varc);
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+print(varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+---
+print(varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+readFile(varf, varc);
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+print(varc);
+closeRFile(varf);
+
+---
+readFile(varf, varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+print(varc);
+closeRFile(varf);
+
+---
+readFile(varf, varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+print(varc);
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+closeRFile(varf);
+
+---
+print(varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+closeRFile(varf);
+
+---
+print(varc);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+---
+closeRFile(varf);
+
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 4
+The stack contains: 
+
+SymTable: varf->test.in | varc->0 | 
+Output: 0 | 0 | 
+File Table: 
+Heap:
+
+---------------------------------------
+

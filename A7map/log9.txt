@@ -1,0 +1,221 @@
+ID OF PROGRAM: 6
+The stack contains: 
+---
+Ref(int) v;
+new(v, 20);
+new(v, 30);
+new(v, 40);
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+new(v, 20);
+new(v, 30);
+new(v, 40);
+
+---
+Ref(int) v;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+new(v, 20);
+new(v, 30);
+new(v, 40);
+
+---
+Ref(int) v;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+new(v, 20);
+new(v, 30);
+new(v, 40);
+
+
+SymTable: v->(0,int) | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+new(v, 20);
+new(v, 30);
+new(v, 40);
+
+
+SymTable: v->(0,int) | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+new(v, 30);
+new(v, 40);
+
+---
+new(v, 20);
+
+
+SymTable: v->(0,int) | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+new(v, 30);
+new(v, 40);
+
+---
+new(v, 20);
+
+
+SymTable: v->(0,int) | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+new(v, 30);
+new(v, 40);
+
+
+SymTable: v->(1,int) | 
+Output: 
+File Table: 
+Heap:
+1->20
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+new(v, 30);
+new(v, 40);
+
+
+SymTable: v->(1,int) | 
+Output: 
+File Table: 
+Heap:
+1->20
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+new(v, 40);
+
+---
+new(v, 30);
+
+
+SymTable: v->(1,int) | 
+Output: 
+File Table: 
+Heap:
+1->20
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+new(v, 40);
+
+---
+new(v, 30);
+
+
+SymTable: v->(1,int) | 
+Output: 
+File Table: 
+Heap:
+1->20
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+new(v, 40);
+
+
+SymTable: v->(2,int) | 
+Output: 
+File Table: 
+Heap:
+1->20
+2->30
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+---
+new(v, 40);
+
+
+SymTable: v->(2,int) | 
+Output: 
+File Table: 
+Heap:
+2->30
+
+---------------------------------------
+
+ID OF PROGRAM: 6
+The stack contains: 
+
+SymTable: v->(3,int) | 
+Output: 
+File Table: 
+Heap:
+2->30
+3->40
+
+---------------------------------------
+

@@ -1,0 +1,435 @@
+ID OF PROGRAM: 1
+The stack contains: 
+---
+int v;
+v = 2;
+print(v);
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+v = 2;
+print(v);
+
+---
+int v;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+v = 2;
+print(v);
+
+---
+int v;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+v = 2;
+print(v);
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+v = 2;
+print(v);
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+
+---
+v = 2;
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+
+---
+v = 2;
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+
+
+SymTable: v->2 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+
+
+SymTable: v->2 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+
+SymTable: v->2 | 
+Output: 2 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+int v;
+v = 2;
+print(v);
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+v = 2;
+print(v);
+
+---
+int v;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+v = 2;
+print(v);
+
+---
+int v;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+v = 2;
+print(v);
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+v = 2;
+print(v);
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+print(v);
+
+---
+v = 2;
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+print(v);
+
+---
+v = 2;
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+print(v);
+
+
+SymTable: v->2 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+---
+print(v);
+
+
+SymTable: v->2 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 2
+The stack contains: 
+
+SymTable: v->2 | 
+Output: 2 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+int v;
+v = 2;
+print(v);
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+v = 2;
+print(v);
+
+---
+int v;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+v = 2;
+print(v);
+
+---
+int v;
+
+
+SymTable: 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+v = 2;
+print(v);
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+v = 2;
+print(v);
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+
+---
+v = 2;
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+
+---
+v = 2;
+
+
+SymTable: v->0 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+
+
+SymTable: v->2 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+---
+print(v);
+
+
+SymTable: v->2 | 
+Output: 
+File Table: 
+Heap:
+
+---------------------------------------
+
+ID OF PROGRAM: 1
+The stack contains: 
+
+SymTable: v->2 | 
+Output: 2 | 
+File Table: 
+Heap:
+
+---------------------------------------
+
